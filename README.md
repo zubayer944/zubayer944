@@ -1,6 +1,6 @@
 # Hi there!
 
-I'm a Flutter developer with a passion for building mobile applications that are both functional and visually appealing. I have [number of years] of experience in the field and I'm always seeking new opportunities to challenge myself and improve my skills.
+I'm a Flutter developer with a passion for building mobile applications that are both functional and visually appealing. I have 2 years of experience in the field and I'm always seeking new opportunities to challenge myself and improve my skills.
 
 ## Skills
 - Flutter development
