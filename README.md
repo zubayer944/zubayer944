@@ -23,8 +23,7 @@ Here are some of my live projects:
 
 ## Contact
 Feel free to reach out to me if you have any questions or would like to collaborate on a project.
-- Email: 
-- zubayerhamim@gmail.com
+- Email:  zubayerhamim@gmail.com
 - LinkedIn: https://www.linkedin.com/in/zubayer-hamim-31a603130
 
 Thanks for visiting me
