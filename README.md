@@ -3,11 +3,11 @@
 I'm a Flutter developer with a passion for building mobile applications that are both functional and visually appealing. I have 2 years of experience in the field and I'm always seeking new opportunities to challenge myself and improve my skills.
 
 ## Skills
-- Flutter development
-- Mobile app development (Android and iOS)
+- Flutter (Android and iOS)
 - Dart programming
 - REST API integration
 - Firebase
+- Push notification
 - SqfLite
 - GetX
 - Bloc
