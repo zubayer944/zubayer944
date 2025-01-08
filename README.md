@@ -12,6 +12,7 @@ I'm a Flutter developer with a passion for building mobile applications that are
 - GetX
 - Riverpod
 - Bloc
+- SOLID
 - Testing
 
 ## Projects
