@@ -23,6 +23,7 @@ Here are some of my live projects:
 - https://play.google.com/store/apps/details?id=ca.appswithcyril.accompanied2025
 - https://apps.apple.com/us/app/orana/id6761205216
 - https://play.google.com/store/apps/details?id=ai.propsoft&hl=en
+- https://play.google.com/store/apps/details?id=com.gari_bhai.gari_bhai
 - https://apps.apple.com/us/app/propsoft-ai/id6443734419
 - https://apps.apple.com/in/app/eo-bangladesh/id6711334985
 - https://play.google.com/store/apps/details?id=eo.bd.eo_bangladesh
