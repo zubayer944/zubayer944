@@ -19,7 +19,7 @@ I'm a Flutter developer with a passion for building mobile applications that are
 
 ## Projects
 Here are some of my live projects:
--- https://apps.apple.com/us/app/accompanied/id6751299327
+- https://apps.apple.com/us/app/accompanied/id6751299327
 - https://play.google.com/store/apps/details?id=ca.appswithcyril.accompanied2025
 - https://apps.apple.com/us/app/orana/id6761205216
 - https://play.google.com/store/apps/details?id=ai.propsoft&hl=en
